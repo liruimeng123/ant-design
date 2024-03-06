@@ -1,4 +1,4 @@
-import React from 'react';
+20import React from 'react';
 import { Flex, Progress } from 'antd';
 
 const App: React.FC = () => (
